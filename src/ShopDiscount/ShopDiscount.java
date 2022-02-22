@@ -3,8 +3,8 @@ package ShopDiscount;
 import java.util.Scanner;
 
 public class ShopDiscount {
-    double priceOfIceCream = 100;
-    double discountPercentage = 10;
+    double priceOfIceCream = 100d;
+    double discountPercentage = 10d;
     double totalCost, discountPrice;
 
     public void costOfTheIceCream(){
