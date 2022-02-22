@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class UserInput {
 
-    public void UI(){
+    public void ui(){
         Scanner sc = new Scanner(System.in);
 
         System.out.println("Enter Your Name: ");

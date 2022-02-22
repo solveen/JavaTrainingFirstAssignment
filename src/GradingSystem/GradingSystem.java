@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class GradingSystem {
 
-    public void GS(){
+    public void gs(){
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the marks of the student: ");
         double marks= sc.nextDouble();

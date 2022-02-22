@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class FactorialOfaNumber {
     int factorial = 1;
-    public void FON(){
+    public void fon(){
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the number you want to factorial of: ");
         int a = sc.nextInt();

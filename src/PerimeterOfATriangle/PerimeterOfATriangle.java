@@ -5,7 +5,7 @@ public class PerimeterOfATriangle {
     int LengthB = 3;
     int LengthC = 5;
     int PerimeterOfTriangle;
-    public void POT(){
+    public void pot(){
         PerimeterOfTriangle = LengthA + LengthB + LengthC;
         System.out.println("Perimeter of a triangle is: " + PerimeterOfTriangle);
     }
